@@ -1,0 +1,64 @@
+{
+  "hash": "84eb5870",
+  "configHash": "78847ebc",
+  "lockfileHash": "52ec1ea9",
+  "browserHash": "ab515cd0",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "bd83b303",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "8afe72a5",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "c9830081",
+      "needsInterop": true
+    },
+    "react-bootstrap": {
+      "src": "../../react-bootstrap/esm/index.js",
+      "file": "react-bootstrap.js",
+      "fileHash": "50a3a3ee",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "3d39340b",
+      "needsInterop": true
+    },
+    "react-parallax": {
+      "src": "../../react-parallax/lib/index.js",
+      "file": "react-parallax.js",
+      "fileHash": "1b2cf1b4",
+      "needsInterop": true
+    },
+    "react-slick": {
+      "src": "../../react-slick/lib/index.js",
+      "file": "react-slick.js",
+      "fileHash": "0f7fbcf6",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-HSESELKR": {
+      "file": "chunk-HSESELKR.js"
+    },
+    "chunk-YAPSZIQJ": {
+      "file": "chunk-YAPSZIQJ.js"
+    },
+    "chunk-V447PFUJ": {
+      "file": "chunk-V447PFUJ.js"
+    },
+    "chunk-YJNMHHGL": {
+      "file": "chunk-YJNMHHGL.js"
+    }
+  }
+}
